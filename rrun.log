@@ -1,0 +1,4 @@
+   Compiling ga v0.1.0 (/home/chris/projects/rust/ga)
+    Finished release [optimized] target(s) in 1.04s
+     Running `target/release/ga`
+matrix = [[Wall, Wall, Wall], [Wall, Can, Wall]]
